@@ -1,7 +1,7 @@
 # PyBer Analysis
 
 ## Overview of the Pyber Analysis
-After combining two datasets (city data and ride data), we are now able to analyze the ride-sharing data by grouping them into city type (urban, suburban and city) and by date. This also enable visualization and provide readers an accessible way to understand the trend or pattern more easily.
+After combining two datasets (city data and ride data), we are now able to analyze the ride-sharing data by grouping them to three city types (urban, suburban and city) and by date. This also enable visualization and provide readers an accessible way to understand the trend or pattern more easily.
 
 ## Analysis
 The table below shows the ride-sharing data among different city types.
