@@ -7,7 +7,7 @@ After combining two datasets (city data and ride data), we are now able to analy
 The table below shows the ride-sharing data among different city types.
 ![PyBer-summary](https://github.com/SzeWingChan/PyBer_Analysis/blob/main/analysis/PyBer_summary.png)
 
-The below chart shows the total fares for each city type.
+The below multiple-line chart shows the total fares for each city type.
 ![Pyber_fare_summary](https://github.com/SzeWingChan/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
 - Total Rides
