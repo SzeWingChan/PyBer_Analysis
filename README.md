@@ -7,6 +7,9 @@ After combining two datasets (city data and ride data), we are now able to analy
 The table below shows the ride-sharing data among different city types.
 ![PyBer-summary](https://github.com/SzeWingChan/PyBer_Analysis/blob/main/analysis/PyBer_summary.png)
 
+The below chart shows the total fares for each city type.
+![Pyber_fare_summary](https://github.com/SzeWingChan/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
+
 - Total Rides
     - The total number of rides of all city types is 2,375.
     - Most of the rides are under urban cities (1,625 out of 2,375), followed by suburban cities (625 out of 2,375) and rural cities (125 out of 2,375).
