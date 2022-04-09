@@ -30,7 +30,7 @@ The table below shows the ride-sharing data among different city types.
 
 ## Summary
 Recommendations to the CEO for addressing disparities among the city types:
--   The average fare per ride of rural cities is highest among the three city types and this might discourage riders to book the ride.  Special discounts or promotions could be offered to riders to incentivize them.  This will help boost the total number of rides as well.
--   The number of total drivers in rural cities and suburban cities is lower than urban cities and this could impact the fare for riders.  Recruiting more drivers in rural and suburban cities could help lower the average fare and encourage riders to take riders in those cities.
+-   The average fare per ride of rural cities is highest among the three city types and this might discourage riders.  Special discounts or promotions could be offered to potential riders in rural cities to incentivize them.  This will also help boost the total number of rides.
+-   The number of total drivers in rural cities and suburban cities is far lower than urban cities and this could impact the fare for riders.  Recruiting more drivers in rural and suburban cities could help lower the average fare and encourage riders to take riders in those cities.
 -   Disclosing the average fare per driver in different city types to the drivers might be able to divert drivers from urban cities to rural and suburban cities, which could be beneficial to the business, drivers and riders overall.
 
